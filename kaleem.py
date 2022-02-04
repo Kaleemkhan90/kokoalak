@@ -37,13 +37,13 @@ def jalan(z):
 		time.sleep(00000.1)
 ##### LOGO #####
 logo = """
-   Asif Javed
-   ▄︻̷̿┻̿═━一
-   THE ANONYMOUS lovehacker TRICKER 
-   THE LEGEND ℒℴνℯ
-   THE GAME CHANGER ℒℴνℯ
-   pakistani hackers
-   ℒℴνℯ ▄︻̷̿┻̿═━一
+   Asif KALEEM
+   KPK ▄︻̷̿┻̿═━一
+   THE HACKER OF KPK
+   THE KING OF TERMUX
+   KALEEM KHAN
+   pakistani hackers kpk
+   KALEEM ▄︻̷̿┻̿═━一
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mlove
 \033[1;96mYouTube \033[1;93m: \033[1;92mPakistani Hackers
@@ -72,8 +72,8 @@ print  """\033[1;91m=======================================
 \033[1;96mpage \033[1;93m: \033[1;92mhttps://www.facebook.com/lovehacker
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
-CorrectUsername = "lovehacker"
-CorrectPassword = "03094161457"
+CorrectUsername = "KPK"
+CorrectPassword = "KALEEM"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
